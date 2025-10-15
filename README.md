@@ -1,4 +1,4 @@
-# Happy
+# Codie
 
 Code on the go controlling claude code from your mobile device.
 
@@ -7,13 +7,13 @@ Free. Open source. Code anywhere.
 ## Installation
 
 ```bash
-npm install -g happy-coder
+npm install -g Codie-coder
 ```
 
 ## Usage
 
 ```bash
-happy
+Codie
 ```
 
 This will:
@@ -23,12 +23,12 @@ This will:
 
 ## Commands
 
-- `happy auth` – Manage authentication
-- `happy codex` – Start Codex mode
-- `happy connect` – Store AI vendor API keys in Happy cloud
-- `happy notify` – Send a push notification to your devices
-- `happy daemon` – Manage background service
-- `happy doctor` – System diagnostics & troubleshooting
+- `Codie auth` – Manage authentication
+- `Codie codex` – Start Codex mode
+- `Codie connect` – Store AI vendor API keys in Codie cloud
+- `Codie notify` – Send a push notification to your devices
+- `Codie daemon` – Manage background service
+- `Codie doctor` – System diagnostics & troubleshooting
 
 ## Options
 
@@ -41,11 +41,11 @@ This will:
 
 ## Environment Variables
 
-- `HAPPY_SERVER_URL` - Custom server URL (default: https://api.cluster-fluster.com)
-- `HAPPY_WEBAPP_URL` - Custom web app URL (default: https://app.happy.engineering)
-- `HAPPY_HOME_DIR` - Custom home directory for Happy data (default: ~/.happy)
-- `HAPPY_DISABLE_CAFFEINATE` - Disable macOS sleep prevention (set to `true`, `1`, or `yes`)
-- `HAPPY_EXPERIMENTAL` - Enable experimental features (set to `true`, `1`, or `yes`)
+- `Codie_SERVER_URL` - Custom server URL (default: https://api.cluster-fluster.com)
+- `Codie_WEBAPP_URL` - Custom web app URL (default: https://app.Codie.engineering)
+- `Codie_HOME_DIR` - Custom home directory for Codie data (default: ~/.Codie)
+- `Codie_DISABLE_CAFFEINATE` - Disable macOS sleep prevention (set to `true`, `1`, or `yes`)
+- `Codie_EXPERIMENTAL` - Enable experimental features (set to `true`, `1`, or `yes`)
 
 ## Requirements
 
